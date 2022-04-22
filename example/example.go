@@ -8,8 +8,9 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	"gorsa"
 	"io/ioutil"
+
+	"github.com/api7/gorsa"
 )
 
 var (
