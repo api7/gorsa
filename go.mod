@@ -1,4 +1,4 @@
-module gorsa
+module github.com/api7/gorsa
 
 go 1.17
 
